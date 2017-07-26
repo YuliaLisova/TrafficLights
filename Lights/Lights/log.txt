@@ -1,0 +1,14 @@
+Wednesday, July 26, 2017 17:08:31 Entering TrafficLights::TrafficLights
+Wednesday, July 26, 2017 17:08:35 Entering StateRed::Handle
+Wednesday, July 26, 2017 17:08:36 Entering StateYellow::Handle
+Wednesday, July 26, 2017 17:08:37 Entering StateEmpty::Handle
+Wednesday, July 26, 2017 17:08:46 Entering StateYellow::Handle
+Wednesday, July 26, 2017 17:08:46 Entering StateEmpty::Handle
+Wednesday, July 26, 2017 17:08:48 Entering StateYellow::Handle
+Wednesday, July 26, 2017 17:08:48 Entering StateEmpty::Handle
+Wednesday, July 26, 2017 17:08:51 Entering StateYellow::Handle
+Wednesday, July 26, 2017 17:08:51 Entering StateEmpty::Handle
+Wednesday, July 26, 2017 17:08:53 Entering StateGreen::Handle
+Wednesday, July 26, 2017 17:08:55 Entering StateRed::Handle
+Wednesday, July 26, 2017 17:08:57 Entering StateYellow::Handle
+Wednesday, July 26, 2017 17:08:57 Entering StateEmpty::Handle
